@@ -1,2 +1,2 @@
 //rotate cam
-global.z -= 1;
+//global.z -= 1;
