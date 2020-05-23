@@ -1,0 +1,7 @@
+Pre:
+1 - Game with player, simple camera, and following
+
+Tut:
+1 - Set up layer depths, show camera
+2 - oManager, Create
+3 - oManager, Draw Begin
