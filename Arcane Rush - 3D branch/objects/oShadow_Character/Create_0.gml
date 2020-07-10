@@ -1,2 +1,0 @@
-/// @description ?
-owner = 0;
